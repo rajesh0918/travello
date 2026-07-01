@@ -27,8 +27,7 @@ SECRET_KEY = 'django-insecure-$-nh&aa*^^-_zzen03f5w_qh=0b(40zp3)5xi!a_b6!qcj6d@w
 DEBUG = False
 
 ALLOWED_HOSTS = ['travello-0la7.onrender.com',
-    'localhost',
-    '127.0.0.1']
+    ]
 
 
 # Application definition
